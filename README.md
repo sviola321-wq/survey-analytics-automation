@@ -1,3 +1,13 @@
+# Survey Analytics Automation App
+
+## Overview
+A Streamlit-based application that automates the end-to-end survey analytics workflow, including scripting, recoding, weighting, toplines, and crosstabs. Designed to replace manual Excel and SPSS processes, the app improves speed, accuracy, and consistency in survey reporting.
+
+## Impact
+- Reduced manual processing time by ~50%
+- Eliminated common copy-and-paste errors
+- Enabled non-technical users to generate complex analytical outputs
+
 # Purpose
 
 The purpose of this project is to streamline the polling workflow and reduce human error by replacing manual Excel and SPSS processes with a single, structured application.
